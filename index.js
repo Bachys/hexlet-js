@@ -1,4 +1,4 @@
 import _ from "lodash";
+import number from "./src/index.js"
 
-console.log(_.last(["one", "two"]));
-// console.log("Hello, Hexlet!");
+number();
